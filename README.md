@@ -5,4 +5,4 @@ You will need the VMware vPostgress Backup/Restore Database script files which y
 
 https://kb.vmware.com/selfservice/microsites/search.do?language=en_US&cmd=displayKC&externalId=2091961
 
-Please refer to http://www.sysadmintutorials.com/backup-vmware-vcsa-vpostgress-database-to-cifs-share/ for full instructions
+Please refer to http://www.sysadmintutorials.com/backup-vmware-vcsa-vpostgress-database-to-cifs-share for full instructions
